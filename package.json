@@ -1,0 +1,25 @@
+{
+  "name": "ie8-eventlistener",
+  "version": "0.1.0",
+  "description": "A Polyfill for ie8 addEventlistener and removeEventlistener functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/the-simian/ie8-eventlistener.git"
+  },
+  "keywords": [
+    "polyfill",
+    "ie8",
+    "addEventlistener",
+    "removeEventListener"
+  ],
+  "author": "Jesse Harlin <harlinjesse@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-simian/ie8-eventlistener/issues"
+  },
+  "homepage": "https://github.com/the-simian/ie8-eventlistener#readme"
+}
