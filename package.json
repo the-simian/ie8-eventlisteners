@@ -1,5 +1,5 @@
 {
-  "name": "ie8-eventlistener",
+  "name": "ie8-eventlisteners",
   "version": "0.1.0",
   "description": "A Polyfill for ie8 addEventlistener and removeEventlistener functions.",
   "main": "index.js",
